@@ -1,0 +1,2 @@
+sap_xep_thu_tu.Number
+sap_xep_thu_tu.SAP_XEP_thu_tu
